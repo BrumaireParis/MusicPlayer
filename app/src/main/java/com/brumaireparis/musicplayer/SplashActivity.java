@@ -43,7 +43,7 @@ public class SplashActivity extends Activity {
 
     int flag=0;
 
-    public void skipClick(View v)
+    public void SkipClick(View v)
     {
         Intent intent = new Intent(SplashActivity.this,MainActivity.class);
         startActivity(intent);
@@ -53,15 +53,15 @@ public class SplashActivity extends Activity {
     }
 
     private void init(){
-        /*TextView textView=findViewById(R.id.version);
+        TextView textView=findViewById(R.id.version);
         try{
             PackageInfo packageInfo = getPackageManager().getPackageInfo(getPackageName(),0);
-            textView.setText("version:"+packageInfo.versionName);
+            textView.setText("Version:"+packageInfo.versionName);
         }
         catch (PackageManager.NameNotFoundException e){
             e.printStackTrace();
-            textView.setText("version");
-        }*/
+            textView.setText("Version");
+        }
 
         Timer timer = new Timer();
         TimerTask timerTask = new TimerTask() {
@@ -75,7 +75,7 @@ public class SplashActivity extends Activity {
                 }
             }
         };
-        timer.schedule(timerTask,3000);
+        timer.schedule(timerTask,30000);
     }
 
     public void changeStatusBarTextColor(Window window, boolean isBlack) {
