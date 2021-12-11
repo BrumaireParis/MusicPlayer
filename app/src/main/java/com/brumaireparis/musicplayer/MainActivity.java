@@ -36,6 +36,13 @@ public class MainActivity extends Activity {
         //MainActivity.this.finish();
     }
 
+    public void flashlightClick(View v)
+    {
+        Intent intent = new Intent(MainActivity.this,Flashlight.class);
+        startActivity(intent);
+
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
