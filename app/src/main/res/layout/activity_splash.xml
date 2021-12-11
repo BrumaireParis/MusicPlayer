@@ -11,7 +11,7 @@
         android:id="@+id/skipButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
         android:background="#66000000"
         android:fontFamily="sans-serif-light"
         android:onClick="SkipClick"
@@ -24,7 +24,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="0dp"
-        android:layout_height="220dp"
+        android:layout_height="150dp"
         android:background="#CCFFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
