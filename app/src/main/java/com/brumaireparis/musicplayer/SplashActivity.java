@@ -75,7 +75,7 @@ public class SplashActivity extends Activity {
                 }
             }
         };
-        timer.schedule(timerTask,30000);
+        timer.schedule(timerTask,3000);
     }
 
     public void changeStatusBarTextColor(Window window, boolean isBlack) {
