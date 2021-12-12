@@ -43,6 +43,12 @@ public class MainActivity extends Activity {
 
     }
 
+    public void callClick(View v)
+    {
+        Intent intent = new Intent(MainActivity.this,Phonecall.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

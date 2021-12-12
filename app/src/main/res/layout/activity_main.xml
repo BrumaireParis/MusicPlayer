@@ -185,6 +185,7 @@
                             android:layout_marginStart="30dp"
                             android:layout_marginEnd="30dp"
                             android:background="@drawable/ic_phone_in_talk"
+                            android:onClick="callClick"
                             app:layout_constraintBottom_toTopOf="@+id/callTextView"
                             app:layout_constraintEnd_toEndOf="parent"
                             app:layout_constraintStart_toStartOf="parent"
