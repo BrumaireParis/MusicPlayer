@@ -1,4 +1,4 @@
-package com.brumaireparis.musicplayer;
+package com.brumaireparis.musicplayer.functions;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,6 +14,8 @@ import android.view.Window;
 import android.widget.ImageButton;
 
 import androidx.core.content.ContextCompat;
+
+import com.brumaireparis.musicplayer.R;
 
 public class Flashlight extends Activity {
     /**

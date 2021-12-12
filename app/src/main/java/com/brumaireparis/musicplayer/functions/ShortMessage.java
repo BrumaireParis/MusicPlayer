@@ -1,4 +1,4 @@
-package com.brumaireparis.musicplayer;
+package com.brumaireparis.musicplayer.functions;
 
 import android.app.Activity;
 import android.os.Build;
@@ -9,6 +9,8 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.brumaireparis.musicplayer.R;
 
 import java.util.ArrayList;
 

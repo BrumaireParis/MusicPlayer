@@ -1,4 +1,4 @@
-package com.brumaireparis.musicplayer;
+package com.brumaireparis.musicplayer.functions;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -15,6 +15,8 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import androidx.core.content.FileProvider;
+
+import com.brumaireparis.musicplayer.R;
 
 import java.io.File;
 import java.io.IOException;

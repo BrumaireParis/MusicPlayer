@@ -33,4 +33,9 @@
     <string name="bt_send">Send</string>
     <string name="tv_text">Text</string>
     <string name="tv_phnum">Phone Number</string>
+
+    <string name="music_title">Music Title</string>
+    <string name="music_singer">Music Singer</string>
+    <string name="music_size">Music Size</string>
+    <string name="music_duration">Music Duration</string>
 </resources>

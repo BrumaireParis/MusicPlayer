@@ -32,4 +32,8 @@
     <string name="bt_send">发送</string>
     <string name="tv_text">输入文本</string>
     <string name="tv_phnum">输入电话号码</string>
+    <string name="music_title">标题</string>
+    <string name="music_singer">歌手</string>
+    <string name="music_size">大小</string>
+    <string name="music_duration">时长</string>
 </resources>

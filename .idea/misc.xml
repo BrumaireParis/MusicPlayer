@@ -3,16 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/bottom_shape.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/button_shape.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/image_shape.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/scroll_shape.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/webview_shape.xml" value="0.1" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_alarm.xml" value="0.17324561403508773" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_calculator.xml" value="0.264" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_camera.xml" value="0.1723684210526316" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_flashlight.xml" value="0.1618421052631579" />
-        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.28431372549019607" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_message.xml" value="0.264" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_phonecall.xml" value="0.1723684210526316" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_splash.xml" value="0.44077134986225897" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/layout_calculator.xml" value="0.16140350877192983" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/layout_weather.xml" value="0.10657894736842105" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/music_item.xml" value="0.1" />
+        <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/text.xml" value="0.264" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/open_logo.xml" value="0.12017543859649123" />
         <entry key="..\:/Users/skyri/Programs/AndroidStudioProjects/MusicPlayer/app/src/main/res/xml/file_paths.xml" value="0.15921052631578947" />
       </map>
