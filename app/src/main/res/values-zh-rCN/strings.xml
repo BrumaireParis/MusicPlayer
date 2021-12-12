@@ -29,4 +29,7 @@
     <string name="equal">=</string>
     <string name="clear">清除</string>
     <string name="phone_number">电话号码</string>
+    <string name="bt_send">发送</string>
+    <string name="tv_text">输入文本</string>
+    <string name="tv_phnum">输入电话号码</string>
 </resources>

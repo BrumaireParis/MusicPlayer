@@ -49,6 +49,24 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
+    public void camClick(View v)
+    {
+        Intent intent = new Intent(MainActivity.this,Camera.class);
+        startActivity(intent);
+    }
+
+    public void messageClick(View v)
+    {
+        Intent intent = new Intent(MainActivity.this,ShortMessage.class);
+        startActivity(intent);
+    }
+
+    public void alarmClick(View v)
+    {
+        Intent intent = new Intent(MainActivity.this,Alarm.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

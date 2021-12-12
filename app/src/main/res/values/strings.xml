@@ -30,4 +30,7 @@
     <string name="clear">clear</string>
 
     <string name="phone_number">Phone Number</string>
+    <string name="bt_send">Send</string>
+    <string name="tv_text">Text</string>
+    <string name="tv_phnum">Phone Number</string>
 </resources>
