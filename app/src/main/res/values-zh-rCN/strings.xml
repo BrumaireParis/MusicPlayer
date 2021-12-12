@@ -28,4 +28,5 @@
     <string name="add">+</string>
     <string name="equal">=</string>
     <string name="clear">清除</string>
+    <string name="phone_number">电话号码</string>
 </resources>

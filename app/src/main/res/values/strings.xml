@@ -28,4 +28,6 @@
     <string name="add">+</string>
     <string name="equal">=</string>
     <string name="clear">clear</string>
+
+    <string name="phone_number">Phone Number</string>
 </resources>
